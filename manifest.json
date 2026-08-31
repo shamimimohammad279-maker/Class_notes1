@@ -1,0 +1,23 @@
+{
+  "id": "/class-notes",
+  "name": "Class Notes - مدرسه نت‌برداری",
+  "short_name": "Class Notes",
+  "description": "یک برنامه برای ثبت نکات مهم جلسات و کلاس‌ها، ساخت پرامپت برای هوش مصنوعی، آرشیو یادداشت‌ها و خروجی Markdown سازگار با Obsidian.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c1713",
+  "theme_color": "#14231d",
+  "lang": "fa",
+  "dir": "rtl",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ],
+  "screenshots": [
+    {"src":"screenshots/day.png","sizes":"1280x720","type":"image/png","form_factor":"wide","label":"Class Notes in day mode"},
+    {"src":"screenshots/night.png","sizes":"1280x720","type":"image/png","form_factor":"wide","label":"Class Notes in night mode"}
+  ]
+}
